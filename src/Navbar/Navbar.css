@@ -1,0 +1,21 @@
+/* Navbar */
+.setup {
+margin-left: auto !important;
+}
+.navbar-color{
+color: white !important; 
+}
+.gp-dot-color{
+    color: #ffc451;
+}
+.logo {
+font-size: 30px !important;
+font-weight: bold;
+}
+.bg-opacity{
+background-color: 0 !important;
+}
+.header-scrolled {
+background: rgba(0, 0, 0, 0.8);
+/* background:#0c0c0c00 !important; */
+}

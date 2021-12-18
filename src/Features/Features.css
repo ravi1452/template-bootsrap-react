@@ -1,0 +1,49 @@
+/* Img for features */
+.features-icons{
+    font-size: 45px;
+    float: left;
+  }
+  .image{
+    background-image: url(../Images/features.jpg);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+  }
+  .features-font-size{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 5px 0 10px 60px;    
+    padding-top: 2%;
+
+  }
+  .class-p{
+    font-size: 15px;
+    color: #848484;
+    margin-left: 60px;
+}
+  
+
+/* @media(min-width:280px)and (max-width:767px)
+{
+  .features-icon-text{
+    margin-top: 10%;
+  }
+} */
+
+/* i-pad */
+/* @media (max-width: 768px){ */
+/* .features-details{
+  padding-left:5% !important;
+} */
+/* .features-icon-text{ */
+/* margin-top: 5%; */
+/* } */
+/* } */
+
+
+/* i-pad-pro */
+/* @media (max-width: 1366px){ */
+/* .features-details{
+  font-size: 10px;
+} */
+/* } */

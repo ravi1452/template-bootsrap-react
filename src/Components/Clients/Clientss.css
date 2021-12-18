@@ -1,0 +1,30 @@
+/* slider  */
+.clients{
+    /* width: 50%; */
+    padding-right: 70px !important;
+  }
+  .clients-size{
+    padding-top: 20px;
+  }
+  .swiper-slide img {
+    opacity: 0.5;
+    transition: 0.3s;
+    filter: grayscale(100);
+  }
+  :hover.swiper-slide img {
+    opacity: 0.9;
+    filter: grayscale(0);
+  }
+
+@media(min-width:280px)and (max-width:767px){
+.clients{
+  width: 70px !important;
+  /* margin-right: 4px; */
+}
+}
+
+  @media (max-width: 768px){
+    .clients{
+      padding-right: 30px !important;
+    }
+  }

@@ -1,0 +1,39 @@
+/* About */
+.icon-color-change{
+    color: orange;
+  }
+  .icon-nonstyle{
+    list-style-type: none;
+  }
+.about-text {
+    font-weight: 700;
+    font-size: 28px !important;
+    color: #343a40;
+    font-family: "Poppins", sans-serif;
+}
+  
+/* mobile */
+@media(min-width:280px)and (max-width:767px)
+{
+.about-img-mobile{
+  margin-top: 10% !important;
+}
+.icon-nonstyle{
+  padding-left: 0%;
+ }
+}
+
+/* i-pad */
+@media (max-width: 768px){
+.about-img-mobile{
+  margin-top: 5%;
+}
+}
+
+
+/* i-pad-pro */
+/* @media (max-width: 1366){
+  .icon-nonstyle{
+    padding-left: 0% !important;
+   }
+} */

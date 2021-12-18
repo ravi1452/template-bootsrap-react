@@ -1,0 +1,26 @@
+/* Team */
+.team {
+    background: #fff;
+    padding: 60px 0;
+  }
+  .team .section-title p {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: "Poppins", sans-serif;
+    color: #151515;
+  }
+  .team .member-info {
+    padding: 25px 15px;
+  }
+  .team .member-info h4 {
+    font-weight: 700;
+    margin-bottom: 5px;
+    font-size: 18px;
+    color: #151515;
+  }
+  .team .member-info span {
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    color: #aaaaaa;
+  }
